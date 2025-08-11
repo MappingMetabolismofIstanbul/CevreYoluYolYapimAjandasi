@@ -151,26 +151,7 @@ var config = {
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
-    },
-         {
-            id: 'seven-identifier',
-            alignment: 'centered',
-            hidden: true,
-            title: '',
-            image: '',
-            description: '',
-            location: {
-                center: [28.930, 41.017],
-                zoom: 16,
-                pitch: 0,
-                bearing: 0.00
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        }
+    }
        
        
     ]
